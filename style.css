@@ -1,0 +1,34 @@
+
+body {
+    font-family: 'Source Sans Pro', sans-serif;
+    background-color:red;
+}
+.header_div {
+    background-color:white ;
+    color: rgb(0, 255, 13);
+}
+.header_div p{
+    font-family:monospace;
+    font-weight: bold;
+    font-size: 12px;
+    letter-spacing: 2px;
+    color: darkgrey;
+}
+.main_div button{
+    font-family: fantasy;
+    margin-top: 30px;
+    width: 130px;
+    font-weight: bolder;
+    letter-spacing: 3px;
+}
+.copy_right_footer {
+    background-color: white;
+    color:darkgrey;
+    position: fixed;
+    font-size: 18px;
+    bottom: 0;
+    width: 100%;
+    line-height: 3;
+    text-align: center;
+    text-shadow: 5px 5px 5px #262b2b;
+}
